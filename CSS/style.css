@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 500px;
+    height: 400px;
+    margin: 25px auto;
+    padding: 15px;
+    border: 2px solid cornflowerblue;
+    text-align: center;
+}
+form{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+hr{
+    border: 2px solid #4CAF50;
+     height: 2px; 
+     background-color: cornflowerblue;
+}
